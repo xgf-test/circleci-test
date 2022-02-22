@@ -1,0 +1,22 @@
+{
+  "name": "circleci-test",
+  "version": "1.0.0",
+  "description": "circleci-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgf-test/circleci-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xgf-test/circleci-test/issues"
+  },
+  "homepage": "https://github.com/xgf-test/circleci-test#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
